@@ -1,0 +1,28 @@
+name: Jonathan Zoeteman
+favicon: null
+layout_spectrum: 0.7965580469463021
+typography_spectrum: 0.9406773762311786
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.5682599139399827
+  lightness: 0.8525213128887117
+  saturation: 0.8853989667259157
+  rhythmicContrast: 0.8385017206892371
+purpose: []
